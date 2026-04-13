@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data exports and raw inputs
+*.csv
+
+# Explicit current __pycache__ filenames
+__init__.cpython-310.pyc
+__init__.cpython-37.pyc
+gui.cpython-37.pyc
+investment.cpython-310.pyc
+investment.cpython-37.pyc
+pipeline.cpython-310.pyc
+pipeline.cpython-37.pyc
+psychometrics.cpython-310.pyc
+psychometrics.cpython-37.pyc
+run_gui.cpython-37.pyc
+tlx.cpython-310.pyc
+tlx.cpython-37.pyc
+trust.cpython-310.pyc
+trust.cpython-37.pyc
